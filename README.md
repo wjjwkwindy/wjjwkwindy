@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="/files/profile.png">
   <img src="/files/accessible.svg">
 </p>
 
