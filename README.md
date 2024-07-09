@@ -4,6 +4,6 @@
 
 <p align="center">
   <samp>
-    <a href="http://www.co2oc.com">co2oc</a>
+    <a href="http://www.co2oc.com" target="_blank">co2oc</a>
   </samp>
 </p>
